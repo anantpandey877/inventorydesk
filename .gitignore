@@ -45,3 +45,4 @@ application-*.local.yaml
 
 ### Markdown documentation ###
 *.md
+!README.md
